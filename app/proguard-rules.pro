@@ -19,3 +19,5 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+-printusage /Users/team-rsl/AndroidStudioProjects/ProGuardAssignment/app/build/outputs/apk/debug/usage.txt
